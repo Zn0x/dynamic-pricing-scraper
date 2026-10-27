@@ -218,3 +218,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Secretos y credenciales
+.env
+*.json
+credentials.json
+credenciales.json
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Descargas y artefactos locales
+downloads/
+exportacionesBot/
+artifacts/
+*.xlsx
+*.csv
+*.log
+*.png
+
+# Python cache
+__pycache__/
+*.py[cod]
